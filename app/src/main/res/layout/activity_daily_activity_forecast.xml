@@ -21,5 +21,6 @@
         android:text="@string/no_daily_forecast_date"
         android:id="@android:id/empty"
         android:textColor="#ffffff"
-        android:layout_centerInParent="true" />
+        android:layout_centerInParent="true"
+        android:visibility="invisible" />
 </RelativeLayout>
